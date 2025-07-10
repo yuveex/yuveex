@@ -26,6 +26,7 @@
         <td>
             <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Laravel-white?logo=laravel&style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=white&style=for-the-badge"/>
