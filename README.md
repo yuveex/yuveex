@@ -15,15 +15,68 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-</p>
+### 🛠️ Techs and Tools:
+<table>
+    <tr>
+        <th>Type</th>
+        <th>List</th>
+    </tr>
+    <tr>
+        <td>Web Development</td>
+        <td>
+            <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Javascript-black?logo=javascript&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Laravel-white?logo=laravel&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=white&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white&style=for-the-badge"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Desktop App Development</td>
+        <td>
+            <img src="https://img.shields.io/badge/C%23-9179E4?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Mobile Development</td>
+        <td>
+            <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td>
+            <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Machine Learning</td>
+        <td>
+            <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/R-276DC3?logo=r&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Tensorflow-white?logo=tensorflow&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Scikitlearn-29ABE2?logo=scikitlearn&style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Pytorch-black?logo=pytorch&style=for-the-badge"/>
+        </td>
+    </tr>
+        <tr>
+        <td>Cloud Engineering</td>
+        <td>
+            <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
+        </td>
+    </tr>
+        <tr>
+        <td>OS</td>
+        <td>
+            <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
+        </td>
+    </tr>
+    <tr>
+    </tr>
+</table>
 
 ---
 
