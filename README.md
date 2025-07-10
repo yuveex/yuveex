@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!, I'm Alvin Setiawann</h1>
+<h1 align="center">Hi There!, I'm Alvin Setiawan</h1>
 <h3 align="center">A passionate software developer and ML engineer from Indonesia</h3>
 
 <p align="center">
