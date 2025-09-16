@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning: **React, Golang, and advanced ML or AI models**
 - 💬 Ask me about: **Python, ML, AI, and full-stack web development**
 - 📫 How to reach me: **alvinsetiawan2k3@email.com**
-- ⚡ Fun fact: I like solving problems backwards and debugging like a detective 🕵️
 
 ---
 
@@ -83,11 +82,11 @@
 
 ### 📌 Featured Projects
 
-- 🚢 [YOLOv8 Ship Detection](https://github.com/yuveex/yolov8-ship-detection)  
-  Sorry! It's undergoing maintenance!
+- 🚢 [YOLOv8 Ship Detection](https://github.com/yuveex/YOLOv8ShipDetection)  
+  A web-based application that allows users to upload images and detects ships using a YOLOv8 object detection model. Built as part of my undergraduate thesis to explore deep learning applications in maritime surveillance.
 
-- 🧠 [Simple POS System](https://github.com/yuveex/pos-system)  
-  Sorry! It's undergoing maintenance!
+- 🧠 [Company Bankruptcy Classification](https://github.com/yuveex/Company-Bankruptcy-ML)  
+  Using Machine Learning models to predict company bankruptcy.
 
 ---
 
