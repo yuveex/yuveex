@@ -85,8 +85,8 @@
 - 🚢 [YOLOv8 Ship Detection](https://github.com/yuveex/YOLOv8ShipDetection)  
   A web-based application that allows users to upload images and detects ships using a YOLOv8 object detection model. Built as part of my undergraduate thesis to explore deep learning applications in maritime surveillance.
 
-- 🧠 [Company Bankruptcy Classification](https://github.com/yuveex/Company-Bankruptcy-ML)  
-  Using Machine Learning models to predict company bankruptcy.
+- 🧠 [HabitSaga](https://github.com/C242-PS009/HabitSagaAndroidApp)  
+  A Gamified Productivity Tool addresses the prevalent issue of academic procrastination among students.
 
 ---
 
