@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: **React, Golang, and advanced ML or AI models**
 - 💬 Ask me about: **Python, ML, AI, and full-stack web development**
 - 📫 How to reach me: **alvinsetiawan2k3@email.com**
-- 🌐 My personal website: yuveex.github.io
+- 🌐 My personal website: **[https://yuveex.github.io](https://yuveex.github.io/)**
 
 ---
 
